@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Hui Chong!
 
+[Google Scholar](https://scholar.google.com/citations?user=JOh43GIAAAAJ&hl=zh-CN), [Research Gate](https://www.researchgate.net/profile/Hui-Chong-12), [ORCID](http://orcid.org/0000-0002-7676-7975), [personal CV](https://github.com/AdeBC/Resume-EN/blob/master/resume.pdf).
+
 <!--
 **AdeBC/AdeBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
