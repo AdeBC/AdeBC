@@ -1,6 +1,4 @@
-Leader of Microbial Source Tracking Group, Microbial Bioinformatics Group, Huazhong University of Science and Technology.
-
-[Google Scholar](https://scholar.google.com/citations?user=JOh43GIAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Hui-Chong-12) | [ORCID](http://orcid.org/0000-0002-7676-7975) | [Curriculum Vitae](https://github.com/AdeBC/Resume-EN/blob/master/resume.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=JOh43GIAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Hui-Chong-12) | [ORCID](http://orcid.org/0000-0002-7676-7975) | [Curriculum Vitae](https://github.com/AdeBC/Resume-EN/blob/master/resume.pdf) 
 
 <!--
 **AdeBC/AdeBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
