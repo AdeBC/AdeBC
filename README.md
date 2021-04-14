@@ -1,5 +1,3 @@
-### Hi there 👋 I'm Hui Chong!
-
 [Google Scholar](https://scholar.google.com/citations?user=JOh43GIAAAAJ&hl=zh-CN) | [Research Gate](https://www.researchgate.net/profile/Hui-Chong-12) | [ORCID](http://orcid.org/0000-0002-7676-7975) | [Curriculum Vitae](https://github.com/AdeBC/Resume-EN/blob/master/resume.pdf).
 
 <!--
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hui's github stats](https://github-readme-stats.vercel.app/api?username=AdeBC&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Hui's github stats](https://github-readme-stats.vercel.app/api?username=AdeBC&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
